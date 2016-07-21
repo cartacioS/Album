@@ -2,11 +2,7 @@
 // Title:            Midterm Project
 // Files:            Album.java, ArtistComparator.java, Catalog.java,
 //                   CatalogHelper.java, Track.java
-// Semester:         COP3337 Fall 2015
-//
-// Author:           5099647
-// Lecturer's Name:  Professor Charters
-//
+// Author:           Sabina
 // Description of Program’s Functionality:
 // A program to read a text file and process its content into album objects
 // sort them by album name or artist name upon users request, also allowing
@@ -17,10 +13,6 @@
 //////////////////////////// 80 columns wide/////////////////////////////////
 
 
-/**
- *
- * @author 5099647
- */
 public class Track implements Comparable<Track>
 {
     //Instance Variable
